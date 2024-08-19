@@ -15,4 +15,17 @@
 
 /**
  * Game Phase 
+ * Whos turn is it?
+ * Give control to the person 
+ * Waiting screen for everyone else
+ * If not first turn, we need to display the last line entered 
+ * Word limit, minimum, etc.
+ * How do we keep track of whos turn it is?
+ * How do we pass control to people
+ * How do we make a finished game phase?
+ */
+
+/**
+ * End Phase
+ * Displays finished product
  */
